@@ -1,0 +1,133 @@
+body {
+    background-color: var(--background-color);
+}
+.container0 {
+    margin: 130px auto;
+    width: 1400px;
+    height: 2300px;
+    background-color: var(--background-color);
+    border-radius: 5px;
+}
+.container0form {
+    margin: 20px auto;
+    width: 1400px;
+    height: 1300px;
+    background-color: var(--background-color);
+    border-radius: 5px;
+}
+.container1 {
+    width: 100%;
+    height: 2000px;
+    background-color: var(--background-color);
+    float: left;
+}
+.container1>div {
+    border-radius: 10px;
+}
+.header {
+    width: 100%;
+    height: 130px;
+    float: left;
+    background-color: var(--header-color);
+    top: 0;
+    left: 0;
+    position: fixed;
+}
+.contenido {
+    width: 100%;
+    height: 476px;
+    float: left;
+    background-color: var(--header-color);
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.contenidoform {
+    width: 100%;
+    height: 500px;
+    float: left;
+    background-color: var(--header-color);
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.contenidotext {
+    width: 66%;
+    height: 476px;
+    float: left;
+    background-color: var(--header-color);
+    border-radius: 10px;
+}
+.contenidoimg {
+    width: 34%;
+    height: 476px;
+    float: left;
+    background-color: var(--header-color);
+    border-radius: 0px 10px 10px 0px;
+}
+.contenidoM {
+    width: 100%;
+    height: 510px;
+    float: left;
+    background-color: var(--header-color);
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.contenidoMtext {
+    width: 34%;
+    height: 50px;
+    float: left;
+    background-color: var(--header-color);
+    border-radius: 10px;
+}
+.contenidoMimg {  
+    width: 66%; 
+    height: 100%;
+    float: right;
+    background-color: var(--header-color);
+    border-radius: 0px 10px 10px 0px;
+}
+.contenidoK {
+    width: 100%;
+    height: 465px;
+    float: left;
+    background-color: var(--header-color);
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.contenidoKtext {
+    width: 34%;
+    height: 450px;
+    float: left;
+    background-color: var(--header-color);
+    border-radius: 10px;
+}
+.contenidoKimg {  
+    width: 66%; 
+    height: 100%;
+    float: right;
+    background-color: var(--header-color);
+    border-radius: 0px 10px 10px 0px;
+}
+.contenidoH {
+    width: 100%;
+    height: 415px;
+    float: left;
+    background-color: var(--header-color);
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.contenidoHtext {
+    width: 34%;
+    height: 100%;
+    float: left;
+    background-color: var(--header-color);
+    border-radius: 10px;
+}
+.contenidoHimg {  
+    width: 59%; 
+    height: 100%;
+    float: right;
+    margin: auto;
+    /*background-color: var(--header-color);*/ 
+    background-color: white;
+    border-radius: 0px 10px 10px 0px;
+}

@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Nova Square';
+    src: url('../fonts/Nova_Square/NovaSquare-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('../fonts/Open_Sans/OpenSans-VariableFont_wdth\,wght.ttf');
+}
+
+
+:root{
+    --Nova: 'Nova Square';
+    --Sans: 'Open Sans';
+}
+
+* {
+    font-family: var(--Sans);
+    color: var(--font-colorbase);
+}

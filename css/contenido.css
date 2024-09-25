@@ -1,0 +1,26 @@
+.texto {
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 19px;
+    text-align: justify;
+}
+.texto::first-letter {
+    font-size: 30px;
+    font-family: var(--Nova);
+}
+.title {
+    padding-left: 50px;
+    padding-top: 10px;
+    font-size: 30px;
+    color: var(--font-colorG);
+}
+.tabla {
+    padding-left: 50px;
+    padding-right: 10px;
+    font-size: 18px;
+    color: var(--font-colorG);
+    text-align: left;
+}
+td {
+    padding-bottom: 2px;
+}
